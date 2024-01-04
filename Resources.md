@@ -38,31 +38,29 @@
 `Webgoat:`  [🔗](https://offensivehack.wordpress.com/2018/07/17/webgoat-walkthrough/) <br>
 `Mutillidae:` [🔗](https://matrixlabsblog.wordpress.com/2019/04/14/owasp-mutillidae-walkthrough/) <br>
 `Bwapp:` [🔗](https://jaiguptanick.github.io/Blog/blog/Walkthrough_of_bWAPP_solutions_A1_injection_writeups/) <br>
-
-
 `Bwapp2:` [🔗](https://jaiguptanick.github.io/Blog/blog/Walkthrough_of_bWAPP_solutions_A4_Insecure_Direct_Object_References_writeups/) <br>
 `Portswigger:` [🔗](https://portswigger.net/web-security/all-labs) <br>
 `Python:` [🔗](https://github.com/wilfredinni/python-cheatsheet)  <br>
 `HTB:` [🔗](https://www.youtube.com/c/ippsec/videos) <br>
 `IPPSEC Retired Boxes Lookup:` [🔗](https://ippsec.rocks/?) <br>
 `MITRE ATT&CK:` [🔗](https://attack.mitre.org/) <br>
-`OWASP Application Security Verification Standard:` Application Security Verification Standard Documentation <br>
-`OWASP Mobile Application Security:` Mobile App Security Documentation <br>
-`Pentesting Standard:` Pentest Standard Example <br>
-`ISSAF:` Information Systems Security Assessment Framework PDF <br>
-` OSSTMM:` The Open Source Security Testing Methodology Manual <br>
-`Cobalt Strike:` Training <br>
-`Malleable C2 Profile:` Github <br>
-`Commands for pentesting / red-teaming engagements:` Engagement Cheat Sheet <br>
-`Engagements Cheat Sheet v2:` Engagement Cheat Sheet v2 <br>
-`Red Team Tips "Vincent Yiu" i:` Vincent Yiu Red Team Tips <br>
-`Lab Building Guide:` Virtual Active Directory <br>
-`Building an Active Directory:` Building an Active Directory <br>
-`WazHell/vulnerable-AD:` GitHub Vulnerable AD <br>
-`Creating Active Directory Labs for Blue & Red Teams:` Creating AD for R/B Teams <br>
-Active Directory Lab Setup Tool Setup Tool
-Active Directory Kill Chain Attack & Defense Active Directory Kill Chain Attack & Defense
-Building a Lab Building a Lab
+`OWASP Application Security Verification Standard:` [🔗](https://owasp.org/www-project-application-security-verification-standard/) <br>
+`OWASP Mobile Application Security:` [🔗](https://owasp.org/www-project-mobile-app-security/) <br>
+`Pentesting Standard:` [🔗](http://www.pentest-standard.org/index.php/Main_Page) <br>
+`ISSAF:` [🔗](https://untrustednetwork.net/files/issaf0.2.1.pdf) <br>
+` OSSTMM:` [🔗](https://www.isecom.org/OSSTMM.3.pdf) <br>
+`Cobalt Strike:` [🔗](https://www.cobaltstrike.com/training/) <br>
+`Malleable C2 Profile:` [🔗](https://raw.githubusercontent.com/bigb0sss/RedTeam-OffensiveSecurity/master/01-CobaltStrike/malleable_C2_profile/CS4.0_guideline.profile) <br>
+`Commands for pentesting / red-teaming engagements:` [🔗](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)t <br>
+`Engagements Cheat Sheet v2:` [🔗](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets) <br>
+`Red Team Tips "Vincent Yiu" i:` [🔗](https://www.vincentyiu.com/red-team-tips) <br>
+`Lab Building Guide:` [🔗](https://medium.com/@vartaisecurity/lab-building-guide-virtual-active-directory-5f0d0c8eb907) <br>
+`Building an Active Directory:` [🔗](https://robertscocca.medium.com/building-an-active-directory-lab-82170dd73fb4) <br>
+`WazHell/vulnerable-AD:` [🔗](https://github.com/WazeHell/vulnerable-AD) <br>
+`Creating Active Directory Labs for Blue & Red Teams:` [🔗](https://sec-consult.com/blog/detail/creating-active-directory-labs-for-blue-and-red-teams/) <br>
+`Active Directory Lab Setup Tool` [🔗](https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool) <br>
+`Active Directory Kill Chain Attack & Defense` [🔗](https://github.com/infosecn1nja/AD-Attack-Defense/blob/master/README.md)<br>
+`Building a Lab` [🔗](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building_A_Lab.md#AD) <br>
 Active Directory Attacks Active Directory Attacks
 Install Virtual box on kali linux VB on Kali linux
 Install Kali Linux on Virtual Box kali-linux-on-virtualbox
@@ -128,16 +126,12 @@ SwiftOnSecurity SwiftOnSecurity
 Hestat / OSSEC  Hestat / OSSEC
 Ruleset - Dynamic fields Ruleset - Dynamic fields
 Decoders Syntax Decoders Syntax  
-
-
 Rules Syntax Rules Syntax 
 Regular Expression Syntax Regular Expression Syntax 
 Learn, Build & Test RegEx  Learn, Build & Test RegEx
 Build, Test & Debug RegEx Build, Test & Debug RegEx 
 Simple RegEx tricks for Beginners Simple RegEx tricks for Beginners 
 Creating decoders & rules from scratch Creating decoders & rules from scratch 
-
-
 Testing decoders and rules Testing decoders and rules 
 youtube wazuh decoders and rules  youtube wazuh decoders and rules
 Daniel Messier SecList  SecList 
