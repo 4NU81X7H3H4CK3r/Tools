@@ -1,26 +1,26 @@
-`Pentesting Methodology (Enumeration):` https://medium.com/@nclvnp/enumeration-1976c5d55b1b <br>
-`OpenVAS:` https://www.openvas.org/ <br>
-`Installing OpenVAS on Kali Linux:` https://agix.com.au/installing-openvas-on-kali-in-2020/ <br>
-`OpenVAS/GSM Turtoiral:`  https://securitytrails.com/blog/openvas-vulnerability-scanner <br>
-`Metasploit Vulnerability Scanner:` https://linuxhint.com/metasploit_vurnerability_scanner_linux/ <br>
-`Metasploit Vulnerability Scanner Documenation:` https://www.offsec.com/metasploit-unleashed/vulnerability-scanning <br>
-`OSINT Framework:` https://osintframework.com/ <br>
-`NMAP/ZENMap:` https://nmap.org/download.html <br>
-`Hacking w/ Nmap:` https://www.youtube.com/watch?v=_JvtO-oe8k8 <br>
-`Nmap Cheat Sheet:` https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/ <br>
-`Noob's guide to Nmap:` https://www.linux.com/training-tutorials/beginners-guide-nmap/ <br>
-`Station X Nmap Cheat sheet:` https://www.stationx.net/nmap-cheat-sheet/ <br>
-`Nmap w/ Python3:` https://pypi.org/project/python3-nmap/ <br>
-`Nmap Tutorial on finding Network Vulnerabilities:` https://www.youtube.com/watch?v=4t4kBkMsDbQ <br>
-`enum4linux:` [Enum4Linux](https://labs.portcullis.co.uk/tools/enum4linux/#:~:text=Enum4linux%20is%20a%20tool%20for,%2C%20rpclient%2C%20net%20and%20nmblookup.url) <br>
-`Nmap & 12 useful NSE scripts:` https://research.securitum.com/nmap-and-12-useful-nse-scripts/ <br>
-`nephack network enumeration:` https://www.nephack.com/metasploit-basic-enumeration <br>
-`Metasploit Scanning Enumeration:` https://asecuritysite.com/csn10107_lab05.pdf <br>
-`CVSS Score Metric:` https://www.balbix.com/insights/understanding-cvss-scores/ <br>
-`Metasploit Architecture:` https://www.offsec.com/metasploit-unleashed/metasploit-architecture <br>
-`Metasploit What are modules?:` https://www.varonis.com/blog/what-is-metasploit <br>
-`Pentesting Guide Metasploit Walkthrough:` https://stuffwithaurum.com/2015/06/14/metasploitable-2-walkthrough-an-exploitation-guide/ <br>
-`Metasploit Walkthrough Linux:` https://stuffwithaurum.com/2020/04/17/metasploitable-3-linux-an-exploitation-guide/ <br>
+`Pentesting Methodology (Enumeration):` [🔗](https://medium.com/@nclvnp/enumeration-1976c5d55b1b )<br>
+`OpenVAS:` [🔗](https://www.openvas.org/) <br>
+`Installing OpenVAS on Kali Linux:` [🔗](https://agix.com.au/installing-openvas-on-kali-in-2020/) <br>
+`OpenVAS/GSM Turtoiral:` [🔗](https://securitytrails.com/blog/openvas-vulnerability-scanner)  <br>
+`Metasploit Vulnerability Scanner:` [🔗](https://linuxhint.com/metasploit_vurnerability_scanner_linux/) <br>
+`Metasploit Vulnerability Scanner Documenation:` [🔗]( https://www.offsec.com/metasploit-unleashed/vulnerability-scanning) <br>
+`OSINT Framework:` [🔗](https://osintframework.com/) <br>
+`NMAP/ZENMap:` [🔗](https://nmap.org/download.html) <br>
+`Hacking w/ Nmap:` [🔗](https://www.youtube.com/watch?v=_JvtO-oe8k8) <br>
+`Nmap Cheat Sheet:` [🔗](https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/) <br>
+`Noob's guide to Nmap:` [🔗](https://www.linux.com/training-tutorials/beginners-guide-nmap/) <br>
+`Station X Nmap Cheat sheet:` [🔗](https://www.stationx.net/nmap-cheat-sheet/) <br>
+`Nmap w/ Python3:` [🔗](https://pypi.org/project/python3-nmap/) <br>
+`Nmap Tutorial on finding Network Vulnerabilities:` [🔗](https://www.youtube.com/watch?v=4t4kBkMsDbQ) <br>
+`enum4linux:` [🔗](https://labs.portcullis.co.uk/tools/enum4linux/#:~:text=Enum4linux%20is%20a%20tool%20for,%2C%20rpclient%2C%20net%20and%20nmblookup.url) <br>
+`Nmap & 12 useful NSE scripts:` [🔗]( https://research.securitum.com/nmap-and-12-useful-nse-scripts/ )<br>
+`nephack network enumeration:` [🔗](https://www.nephack.com/metasploit-basic-enumeration) <br>
+`Metasploit Scanning Enumeration:` [🔗](https://asecuritysite.com/csn10107_lab05.pdf) <br>
+`CVSS Score Metric:` [🔗](https://www.balbix.com/insights/understanding-cvss-scores/) <br>
+`Metasploit Architecture:` [🔗](https://www.offsec.com/metasploit-unleashed/metasploit-architecture) <br>
+`Metasploit What are modules?:` [🔗](https://www.varonis.com/blog/what-is-metasploit) <br>
+`Pentesting Guide Metasploit Walkthrough:` [🔗](https://stuffwithaurum.com/2015/06/14/metasploitable-2-walkthrough-an-exploitation-guide/) <br>
+`Metasploit Walkthrough Linux:` [🔗](https://stuffwithaurum.com/2020/04/17/metasploitable-3-linux-an-exploitation-guide/) <br>
 `John The Ripper` [🔗](https://countuponsecurity.files.wordpress.com/2016/09/jtr-cheat-sheet.pdf&ved=2ahUKEwiyuLm5vOLuAhVhu1kKHZOhDxAQFjAAegQIARAB&usg=AOvVaw3pcj4E387RoazPnuRH7LDTu)<br>
 `Hash Cat:` [🔗](https://www.blackhillsinfosec.com/wp-content/uploads/2020/09/HashcatCheatSheet.v2018.1b.pdf) <br>
 `bettercap:` [🔗](https://www.bettercap.org/) <br>
