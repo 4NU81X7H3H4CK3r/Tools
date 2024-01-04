@@ -115,3 +115,4 @@
 `youtube wazuh decoders and rules` [🔗](https://www.youtube.com/watch?v=2HMo4h7elAA) <br>
 `Daniel Messier SecList` [🔗](https://github.com/danielmiessler/SecLists) <br>
 `Mimikatz` [🔗](https://github.com/gentilkiwi/mimikatz/release) <br>
+`Hacking Tools Cheat Sheet` [🔗](https://www.compass-security.com/fileadmin/Research/White_Papers/2019-01_hacking-tools-cheat-sheet.pdf) <br>
