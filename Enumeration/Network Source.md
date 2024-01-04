@@ -19,6 +19,8 @@ sudo arp-scan -I <interface> <targetSubnet>
 ```
 
 ipconfig /all
+ipconfig /displaydns
+netstat -ano
 ```
 **Linux box:**
 ```
