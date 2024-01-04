@@ -91,174 +91,27 @@
 `Getting Started with MITRE ATT&CK Getting Started Site` [🔗](https://medium.com/mitre-attack/getting-started-with-attack-red-29f074ccf7e3) <br>
 `Red Team Adversary  Red Team Tool Kit ` [🔗](https://0x1.gitlab.io/pentesting/Red-Teaming-Toolkit) <br>
 `Wazuh Wazuh Install` [🔗](https://wazuh.com/install/) | [step-by-step install](https://documentation.wazuh.com/4.0/installation-guide/open-distro/all-in-one-deployment/all_in_one.html) <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-
-
-
-
-
-
-
-       
-Wazuh (Windows) Windows Wazuh Agent  Wazuh Windows Agent 
-Wazuh Group Policy Objects Orca-exe  Windows-sdk  deploying-wazuh-agent-using-windows-gpo  
-stuck-on-removing-managed-software
-https://documentation.wazuh.com/4.0/user-manual/registering/password-authorization-registration.html#registering-the-wazuh-agent-and-enabling-the-communication-with-the-wazuh-manager
-Wazuh Linux Linux Install 
-Monitoring Network Devices Monitoring Networking Devices
-Fortigate Log Monitoring w/ Wazuh Manager: Fortigate log monitoring 
-Decoders Syntax Decoders Syntax
-Change Users Password Documentation
-Index State Management Documentation 
-Wazuh Index Management wazuh-index-management/
-Implementing a Hot-Warm-Cold Architecture with Index Lifecycle Management Site
-File Integrity Monitoring Documentation
-Auditd Linux Tutorial Auditd Linux Tutorial
-Setting up the Linux audit frameworkSetting up the Linux audit framework
-Monitoring system calls Monitoring system calls
-Using Wazuh for Windows vulnerability detectionUsing Wazuh for Windows vulnerability detection
-Running a vulnerability scan  Running a vulnerability scan
-National Vulnerability Database National Vulnerability Database
-Starting and stopping the Wazuh API Starting and stopping the Wazuh API
-Scanning unsupported systems Scanning unsupported systems
-Cyber Essentials: Patch Management Cyber Essentials: Patch Management
-Center for Internet Security CIS Center for Internet Security CIS CIS Benchmarks List  Cat-Lite
-ISO Standards SiteISO Standards Site
-SANS SANS
-National Checklist Program National Checklist Program
-What is SCA What is SCA
-How to collect Windows logs  How to collect Windows logs
-EICAR Test File  EICAR Test File
-Microsoft security Intelligence Microsoft Security Intelligence
-Sysmon v14.14 Sysmon v14.14
-SwiftOnSecurity SwiftOnSecurity
-Hestat / OSSEC  Hestat / OSSEC
-Ruleset - Dynamic fields Ruleset - Dynamic fields
-Decoders Syntax Decoders Syntax  
-Rules Syntax Rules Syntax 
-Regular Expression Syntax Regular Expression Syntax 
-Learn, Build & Test RegEx  Learn, Build & Test RegEx
-Build, Test & Debug RegEx Build, Test & Debug RegEx 
-Simple RegEx tricks for Beginners Simple RegEx tricks for Beginners 
-Creating decoders & rules from scratch Creating decoders & rules from scratch 
-Testing decoders and rules Testing decoders and rules 
-youtube wazuh decoders and rules  youtube wazuh decoders and rules
-Daniel Messier SecList  SecList 
-Mimikatz Mimikatz (Github)
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-`` [🔗]() <br>
-
-
-
+`Wazuh (Windows) Windows Wazuh Agent ` [🔗](https://documentation.wazuh.com/4.0/installation-guide/wazuh-agent/wazuh_agent_package_windows.html)  <br>
+`Cyber Essentials: Patch Management Cyber Essentials: Patch Management` [🔗](https://www.itgovernance.co.uk/patch-management) <br>
+`Center for Internet Security CIS` [🔗](https://www.cisecurity.org/) <br>
+`CIS Benchmarks List` [🔗](https://www.cisecurity.org/cis-benchmarkshttps://www.cisecurity.org/cis-benchmarks) <br>
+` Cat-Lite` [🔗](https://learn.cisecurity.org/cis-cat-lite) <br>
+`ISO Standards Site` [🔗](https://www.iso.org/standards.html) <br>
+`SANS ` [🔗](https://www.sans.org/information-security-policy/) <br>
+`National Checklist Program` [🔗](https://ncp.nist.gov/repository) <br>
+`What is SCA` [🔗](https://documentation.wazuh.com/current/user-manual/capabilities/sec-config-assessment/what-is-it.html) <br>
+`Microsoft security Intelligence` [🔗](https://www.microsoft.com/en-us/wdsi/threats) <br>
+`Sysmon v14.14` [🔗](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) <br>
+`SwiftOnSecurity` [🔗](https://github.com/SwiftOnSecurity/sysmon-config/blob/master/sysmonconfig-export.xml) <br>
+`Hestat / OSSEC` [🔗](https://github.com/Hestat/ossec-sysmon) <br>
+`Ruleset - Dynamic fields` [🔗](https://documentation.wazuh.com/current/user-manual/ruleset/dynamic-fields.html) <br>
+`Decoders Syntax` [🔗](https://documentation.wazuh.com/current/user-manual/ruleset/ruleset-xml-syntax/decoders.html) <br>
+`Rules Syntax` [🔗](https://documentation.wazuh.com/current/user-manual/ruleset/ruleset-xml-syntax/rules.html) <br>
+`Regular Expression Syntax` [🔗](https://documentation.wazuh.com/current/user-manual/ruleset/ruleset-xml-syntax/regex.html) <br>
+`Learn, Build & Test RegEx` [🔗](https://regexr.com/) <br>
+`Simple RegEx tricks for Beginners` [🔗](https://www.freecodecamp.org/news/simple-regex-tricks-for-beginners-3acb3fa257cb) <br>
+`Creating decoders & rules from scratch` [🔗](https://wazuh.com/blog/creating-decoders-and-rules-from-scratch/) <br>
+`Testing decoders and rules` [🔗](https://documentation.wazuh.com/current/user-manual/ruleset/testing.html) <br>
+`youtube wazuh decoders and rules` [🔗](https://www.youtube.com/watch?v=2HMo4h7elAA) <br>
+`Daniel Messier SecList` [🔗](https://github.com/danielmiessler/SecLists) <br>
+`Mimikatz` [🔗](https://github.com/gentilkiwi/mimikatz/release) <br>
