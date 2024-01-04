@@ -61,36 +61,52 @@
 `Active Directory Lab Setup Tool` [🔗](https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool) <br>
 `Active Directory Kill Chain Attack & Defense` [🔗](https://github.com/infosecn1nja/AD-Attack-Defense/blob/master/README.md)<br>
 `Building a Lab` [🔗](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building_A_Lab.md#AD) <br>
-Active Directory Attacks Active Directory Attacks
-Install Virtual box on kali linux VB on Kali linux
-Install Kali Linux on Virtual Box kali-linux-on-virtualbox
-Kali Linux Download Page Installation Instructions
-Brave Download
-Terminator Github Download
-Oh My Zsh Download
-Tmux Install Github
-Linux Crash Course Udemy Paid Course
-Linux Cheat Sheet v1 Cheat Sheet 
-Linux Command Line Command Line Documentation 
-Linux Cheat sheet v2
-Install Docker on Kali linux Documentation 
-Visual Studio Code Install Page
-Install Visual Studios on Kali Linux How to 
-Ethical Hacking Skills: Documentation 
-Web Application Pentest Lab Docker Setup For Web Application Pentest Lab
-Web Application Pentest Lab v2 web app pentest lab v2 
-List Vulnerable Labs List of Vulnerable Labs
-Metasploitable 3 exploitable lab metasploitable3
-Vulnhub labs Site
-CFT TimeCFT site
-Root Me Root Me Site
-Hack the Box HTB Site
-Red Team Notes IRed Team Notes 
-Cobalt Strike Blog Cobalt Strike Site 
-Atomic Red team Atomic Red Team Site
-Getting Started with MITRE ATT&CK Getting Started Site
-Red Team Adversary  Red Team Tool Kit 
-Wazuh Wazuh Install        Step-by-Step Install
+`Active Directory Attacks` [🔗](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md) <br>
+`Install Virtual box on kali linux VB on Kali linux` [🔗](https://computingforgeeks.com/install-virtualbox-on-kali-linux-linux-mint/) <br>
+`Install Kali Linux on Virtual Box kali-linux-on-virtualbox` [🔗](https://phoenixnap.com/kb/how-to-install-kali-linux-on-virtualbox) <br>
+`Kali Linux Download Page Installation Instructions` [🔗](https://www.kali.org/docs/installation) <br>
+`Brave Download` [🔗](https://brave.com/linux/) <br>
+`Terminator Github Download` [🔗](https://github.com/gnome-terminator/terminator) <br>
+`Oh My Zsh Download` [🔗](https://github.com/ohmyzsh/ohmyzshv) <br>
+`Tmux Install Github` [🔗](https://github.com/gpakosz/.tmux) <br>
+`Linux Crash Course Udemy Paid Course` [🔗](https://www.udemy.com/course/complete-linux-command-line-and-terminal-productivity/?referralCode=C04E03F051295B7035C0) <br>
+`Linux Cheat Sheet v1 Cheat Sheet ` [🔗](https://linoxide.com/guide/linux-cheat-sheet.png) <br>
+`Linux Command Line Command Line Documentation` [🔗](https://cheatography.com/davechild/cheat-sheets/linux-command-line/) <br>
+`Linux Cheat sheet v2` [🔗](https://phoenixnap.com/kb/linux-commands-cheat-sheet) <br>
+`Install Docker on Kali linux Documentation ` [🔗](https://linuxhint.com/install_docker_kali_linux/) <br>
+`Visual Studio Code Install Page` [🔗](https://code.visualstudio.com/download) <br>
+`Install Visual Studios on Kali Linux How to ` [🔗](https://computingforgeeks.com/how-to-install-visual-studio-code-on-kali-linux/) <br>
+`Ethical Hacking Skills: Documentation ` [🔗](https://www.tutorialspoint.com/ethical_hacking/ethical_hacking_skills.htm) <br>
+`Web Application Pentest Lab Docker Setup For Web Application Pentest Lab` [🔗](https://www.hackingarticles.in/web-application-pentest-lab-setup-using-docker/) <br>
+`Web Application Pentest Lab v2 web app pentest lab v2 ` [🔗](https://medium.com/@riddhishsarode13/web-application-pentest-lab-setup-using-docker-install-docker-and-start-hacking-2b6722717fb5) <br>
+`List Vulnerable Labs List of Vulnerable Labs` [🔗](https://github.com/kaiiyer/awesome-vulnerable) <br>
+`Metasploitable 3 exploitable lab metasploitable3` [🔗](https://github.com/rapid7/metasploitable3) <br>
+`Vulnhub labs Site` [🔗](https://www.vulnhub.com/) <br>
+`CFT TimeCFT site` [🔗](https://ctftime.org/) <br>
+`Root Me Root Me Site` [🔗](https://www.root-me.org/) <br>
+`Hack the Box HTB Site` [🔗](https://www.hackthebox.com/) <br>
+`Red Team Notes IRed Team Notes ` [🔗](https://www.ired.team/) <br>
+`Cobalt Strike Blog Cobalt Strike Site ` [🔗](https://www.cobaltstrike.com/) <br>
+`Atomic Red team Atomic Red Team Site` [🔗](https://github.com/redcanaryco/atomic-red-team) <br>
+`Getting Started with MITRE ATT&CK Getting Started Site` [🔗](https://medium.com/mitre-attack/getting-started-with-attack-red-29f074ccf7e3) <br>
+`Red Team Adversary  Red Team Tool Kit ` [🔗](https://0x1.gitlab.io/pentesting/Red-Teaming-Toolkit) <br>
+`Wazuh Wazuh Install` [🔗](https://wazuh.com/install/) | [step-by-step install](https://documentation.wazuh.com/4.0/installation-guide/open-distro/all-in-one-deployment/all_in_one.html) <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+
+
+
+
+
+
+
+       
 Wazuh (Windows) Windows Wazuh Agent  Wazuh Windows Agent 
 Wazuh Group Policy Objects Orca-exe  Windows-sdk  deploying-wazuh-agent-using-windows-gpo  
 stuck-on-removing-managed-software
@@ -136,3 +152,113 @@ Testing decoders and rules Testing decoders and rules
 youtube wazuh decoders and rules  youtube wazuh decoders and rules
 Daniel Messier SecList  SecList 
 Mimikatz Mimikatz (Github)
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+`` [🔗]() <br>
+
+
+
