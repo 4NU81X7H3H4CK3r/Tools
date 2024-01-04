@@ -1,65 +1,65 @@
 `Pentesting Methodology (Enumeration):` https://medium.com/@nclvnp/enumeration-1976c5d55b1b <br>
-OpenVAS: https://www.openvas.org/ 
-Installing OpenVAS on Kali Linux: https://agix.com.au/installing-openvas-on-kali-in-2020/
-OpenVAS/GSM Turtoiral:  https://securitytrails.com/blog/openvas-vulnerability-scanner
-Metasploit Vulnerability Scanner: https://linuxhint.com/metasploit_vurnerability_scanner_linux/
-Metasploit Vulnerability Scanner Documenation: https://www.offsec.com/metasploit-unleashed/vulnerability-scanning
-OSINT Framework: https://osintframework.com/
-NMAP/ZENMap: https://nmap.org/download.html
-Hacking w/ Nmap: https://www.youtube.com/watch?v=_JvtO-oe8k8
-Nmap Cheat Sheet: https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/
-Noob's guide to Nmap: https://www.linux.com/training-tutorials/beginners-guide-nmap/
-Station X Nmap Cheat sheet: https://www.stationx.net/nmap-cheat-sheet/
-Nmap w/ Python3: https://pypi.org/project/python3-nmap/
-Nmap Tutorial on finding Network Vulnerabilities: https://www.youtube.com/watch?v=4t4kBkMsDbQ
-enum4linux: Enum4Linux
-Nmap & 12 useful NSE scripts: https://research.securitum.com/nmap-and-12-useful-nse-scripts/
-nephack network enumeration: https://www.nephack.com/metasploit-basic-enumeration
-Metasploit Scanning Enumeration: https://asecuritysite.com/csn10107_lab05.pdf
-CVSS Score Metric: https://www.balbix.com/insights/understanding-cvss-scores/
-Metasploit Architecture: https://www.offsec.com/metasploit-unleashed/metasploit-architecture
-Metasploit What are modules?: https://www.varonis.com/blog/what-is-metasploit
-Pentesting Guide Metasploit Walkthrough: https://stuffwithaurum.com/2015/06/14/metasploitable-2-walkthrough-an-exploitation-guide/
-Metasploit Walkthrough Linux: https://stuffwithaurum.com/2020/04/17/metasploitable-3-linux-an-exploitation-guide/
-John The Rippper Cheat Sheet: JTR Cheat Sheet
-Hash Cat: Cheat Sheet 
-bettercap: Cheat Sheet
-How TCP/IP Protocols Function: TCP/IP Explained 
-Man-In-The-Browser: MITM explained
-Spoofing:  Spoofing Attack
-ARP Spoofing: ARP Spoofing Explained
-Aircrack-ng: Aircrack-ng Explained
-Crack WPA/WPA2 w/ Aircrack-ng & Hashcat: Crack WiFi with Hash Cat && Aircrack-ng
-Phishing: Social Engineering "Phishing" 
-GoPish Download: https://github.com/gophish/gophish/releases
-Social Engineering Explained: Social Engineering Explained 
-OWASP Top 10 Site: Official Site
-DVWA Guide 2019: DVWA Guide
-Webgoat:  Webgoat Walkthrough
-Mutillidae: Mutillidae Walkthrough
-Bwapp: bWAPp Walkthrough A1 Injection 
+`OpenVAS:` https://www.openvas.org/ <br>
+`Installing OpenVAS on Kali Linux:` https://agix.com.au/installing-openvas-on-kali-in-2020/ <br>
+`OpenVAS/GSM Turtoiral:`  https://securitytrails.com/blog/openvas-vulnerability-scanner <br>
+`Metasploit Vulnerability Scanner:` https://linuxhint.com/metasploit_vurnerability_scanner_linux/ <br>
+`Metasploit Vulnerability Scanner Documenation:` https://www.offsec.com/metasploit-unleashed/vulnerability-scanning <br>
+`OSINT Framework:` https://osintframework.com/ <br>
+`NMAP/ZENMap:` https://nmap.org/download.html <br>
+`Hacking w/ Nmap:` https://www.youtube.com/watch?v=_JvtO-oe8k8 <br>
+`Nmap Cheat Sheet:` https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/ <br>
+`Noob's guide to Nmap:` https://www.linux.com/training-tutorials/beginners-guide-nmap/ <br>
+`Station X Nmap Cheat sheet:` https://www.stationx.net/nmap-cheat-sheet/ <br>
+`Nmap w/ Python3:` https://pypi.org/project/python3-nmap/ <br>
+`Nmap Tutorial on finding Network Vulnerabilities:` https://www.youtube.com/watch?v=4t4kBkMsDbQ <br>
+`enum4linux:` Enum4Linux <br>
+`Nmap & 12 useful NSE scripts:` https://research.securitum.com/nmap-and-12-useful-nse-scripts/ <br>
+`nephack network enumeration:` https://www.nephack.com/metasploit-basic-enumeration <br>
+`Metasploit Scanning Enumeration:` https://asecuritysite.com/csn10107_lab05.pdf <br>
+`CVSS Score Metric:` https://www.balbix.com/insights/understanding-cvss-scores/ <br>
+`Metasploit Architecture:` https://www.offsec.com/metasploit-unleashed/metasploit-architecture <br>
+`Metasploit What are modules?:` https://www.varonis.com/blog/what-is-metasploit <br>
+`Pentesting Guide Metasploit Walkthrough:` https://stuffwithaurum.com/2015/06/14/metasploitable-2-walkthrough-an-exploitation-guide/ <br>
+`Metasploit Walkthrough Linux:` https://stuffwithaurum.com/2020/04/17/metasploitable-3-linux-an-exploitation-guide/ <br>
+`John The Rippper Cheat Sheet:` JTR Cheat Sheet <br>
+`Hash Cat:` Cheat Sheet <br>
+`bettercap:` Cheat Sheet <br>
+`How TCP/IP Protocols Function:` TCP/IP Explained <br>
+`Man-In-The-Browser:` MITM explained <br>
+`Spoofing:`  Spoofing Attack <br>
+`ARP Spoofing:` ARP Spoofing Explained <br>
+`Aircrack-ng:` Aircrack-ng Explained <br>
+`Crack WPA/WPA2 w/ Aircrack-ng & Hashcat:` Crack WiFi with Hash Cat && Aircrack-ng <br>
+`Phishing:` Social Engineering "Phishing" <br>
+`GoPish Download:` https://github.com/gophish/gophish/releases <br>
+`Social Engineering Explained:` Social Engineering Explained <br>
+`OWASP Top 10 Site`: Official Site <br>
+`DVWA Guide 2019:` DVWA Guide <br>
+`Webgoat:`  Webgoat Walkthrough <br>
+`Mutillidae:` Mutillidae Walkthrough <br>
+`Bwapp:` bWAPp Walkthrough A1 Injection <br>
 
 
-Bwapp2:  bWAPP A4 Insecure Direct Object References Writeups
-Portswigger: Portswigger Labs
-Python: Python Cheat Sheet 
-HTB:  IPPSEC Videos
-IPPSEC Retired Boxes Lookup: IPPSEC Retired Videos Lookup
-MITRE ATT&CK: MITRE ATT&CK Framwork
-OWASP Application Security Verification Standard: Application Security Verification Standard Documentation 
-OWASP Mobile Application Security: Mobile App Security Documentation 
-Pentesting Standard: Pentest Standard Example
-ISSAF : Information Systems Security Assessment Framework PDF 
- OSSTMM: The Open Source Security Testing Methodology Manual 
-Cobalt Strike: Training
-Malleable C2 Profile: Github
-Commands for pentesting / red-teaming engagements: Engagement Cheat Sheet 
-Engagements Cheat Sheet v2: Engagement Cheat Sheet v2
-Red Team Tips "Vincent Yiu" i: Vincent Yiu Red Team Tips
-Lab Building Guide: Virtual Active Directory 
-Building an Active Directory: Building an Active Directory 
-WazHell/vulnerable-AD: GitHub Vulnerable AD
-Creating Active Directory Labs for Blue & Red Teams: Creating AD for R/B Teams
+`Bwapp2:`  bWAPP A4 Insecure Direct Object References Writeups <br>
+`Portswigger:` Portswigger Labs <br>
+`Python:` Python Cheat Sheet  <br>
+`HTB:`  IPPSEC Videos <br>
+`IPPSEC Retired Boxes Lookup:` IPPSEC Retired Videos Lookup <br>
+`MITRE ATT&CK:` MITRE ATT&CK Framwork <br>
+`OWASP Application Security Verification Standard:` Application Security Verification Standard Documentation <br>
+`OWASP Mobile Application Security:` Mobile App Security Documentation <br>
+`Pentesting Standard:` Pentest Standard Example <br>
+`ISSAF:` Information Systems Security Assessment Framework PDF <br>
+` OSSTMM:` The Open Source Security Testing Methodology Manual <br>
+`Cobalt Strike:` Training <br>
+`Malleable C2 Profile:` Github <br>
+`Commands for pentesting / red-teaming engagements:` Engagement Cheat Sheet <br>
+`Engagements Cheat Sheet v2:` Engagement Cheat Sheet v2 <br>
+`Red Team Tips "Vincent Yiu" i:` Vincent Yiu Red Team Tips <br>
+`Lab Building Guide:` Virtual Active Directory <br>
+`Building an Active Directory:` Building an Active Directory <br>
+`WazHell/vulnerable-AD:` GitHub Vulnerable AD <br>
+`Creating Active Directory Labs for Blue & Red Teams:` Creating AD for R/B Teams <br>
 Active Directory Lab Setup Tool Setup Tool
 Active Directory Kill Chain Attack & Defense Active Directory Kill Chain Attack & Defense
 Building a Lab Building a Lab
