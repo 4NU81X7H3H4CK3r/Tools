@@ -12,7 +12,7 @@
 `Station X Nmap Cheat sheet:` https://www.stationx.net/nmap-cheat-sheet/ <br>
 `Nmap w/ Python3:` https://pypi.org/project/python3-nmap/ <br>
 `Nmap Tutorial on finding Network Vulnerabilities:` https://www.youtube.com/watch?v=4t4kBkMsDbQ <br>
-`enum4linux:` Enum4Linux <br>
+`enum4linux:` [Enum4Linux](https://labs.portcullis.co.uk/tools/enum4linux/#:~:text=Enum4linux%20is%20a%20tool%20for,%2C%20rpclient%2C%20net%20and%20nmblookup.url) <br>
 `Nmap & 12 useful NSE scripts:` https://research.securitum.com/nmap-and-12-useful-nse-scripts/ <br>
 `nephack network enumeration:` https://www.nephack.com/metasploit-basic-enumeration <br>
 `Metasploit Scanning Enumeration:` https://asecuritysite.com/csn10107_lab05.pdf <br>
@@ -21,31 +21,31 @@
 `Metasploit What are modules?:` https://www.varonis.com/blog/what-is-metasploit <br>
 `Pentesting Guide Metasploit Walkthrough:` https://stuffwithaurum.com/2015/06/14/metasploitable-2-walkthrough-an-exploitation-guide/ <br>
 `Metasploit Walkthrough Linux:` https://stuffwithaurum.com/2020/04/17/metasploitable-3-linux-an-exploitation-guide/ <br>
-`John The Rippper Cheat Sheet:` JTR Cheat Sheet <br>
-`Hash Cat:` Cheat Sheet <br>
-`bettercap:` Cheat Sheet <br>
-`How TCP/IP Protocols Function:` TCP/IP Explained <br>
-`Man-In-The-Browser:` MITM explained <br>
-`Spoofing:`  Spoofing Attack <br>
-`ARP Spoofing:` ARP Spoofing Explained <br>
-`Aircrack-ng:` Aircrack-ng Explained <br>
-`Crack WPA/WPA2 w/ Aircrack-ng & Hashcat:` Crack WiFi with Hash Cat && Aircrack-ng <br>
-`Phishing:` Social Engineering "Phishing" <br>
-`GoPish Download:` https://github.com/gophish/gophish/releases <br>
-`Social Engineering Explained:` Social Engineering Explained <br>
-`OWASP Top 10 Site`: Official Site <br>
-`DVWA Guide 2019:` DVWA Guide <br>
-`Webgoat:`  Webgoat Walkthrough <br>
-`Mutillidae:` Mutillidae Walkthrough <br>
-`Bwapp:` bWAPp Walkthrough A1 Injection <br>
+`John The Ripper` [🔗](https://countuponsecurity.files.wordpress.com/2016/09/jtr-cheat-sheet.pdf&ved=2ahUKEwiyuLm5vOLuAhVhu1kKHZOhDxAQFjAAegQIARAB&usg=AOvVaw3pcj4E387RoazPnuRH7LDTu)<br>
+`Hash Cat:` [🔗](https://www.blackhillsinfosec.com/wp-content/uploads/2020/09/HashcatCheatSheet.v2018.1b.pdf) <br>
+`bettercap:` [🔗](https://www.bettercap.org/) <br>
+`How TCP/IP Protocols Function:` [🔗](https://docs.oracle.com/cd/E18752_01/html/816-4554/ipov-29.html) <br>
+`Man-In-The-Browser:` [🔗](https://doubleoctopus.com/security-wiki/threats-and-tools/man-in-the-browser-attack/) <br>
+`Spoofing:` [🔗](https://www.cyberpunk.rs/whats-spoofing-and-how-to-defend-agai) <br>
+`ARP Spoofing:` [🔗](https://huzeifabhai.blogspot.com/2011/08/arp-spoofing-explained.html) <br>
+`Aircrack-ng:` [🔗](https://www.aircrack-ng.org/doku.php?id=cracking_wpa) <br>
+`Crack WPA/WPA2 w/ Aircrack-ng & Hashcat:` [🔗](https://medium.com/@brannondorsey/crack-wpa-wpa2-wi-fi-routers-with-aircrack-ng-and-hashcat-a5a5d3ffea46) <br>
+`Phishing:` [🔗](https://www.ired.team/offensive-security/initial-access/phishing-with-gophish-and-digitalocean) <br>
+`GoPish Download:` [🔗](https://github.com/gophish/gophish/releases) <br>
+`Social Engineering Explained:` [🔗](https://www.tripwire.com/state-of-security/5-social-engineering-attacks-to-watch-out-for)  <br>
+`OWASP Top 10 Site`: [🔗](https://owasp.org/www-project-top-ten/) <br>
+`DVWA Guide 2019:` [🔗](https://github.com/keewenaw/dvwa-guide-2019/tree/master/low) <br>
+`Webgoat:`  [🔗](https://offensivehack.wordpress.com/2018/07/17/webgoat-walkthrough/) <br>
+`Mutillidae:` [🔗](https://matrixlabsblog.wordpress.com/2019/04/14/owasp-mutillidae-walkthrough/) <br>
+`Bwapp:` [🔗](https://jaiguptanick.github.io/Blog/blog/Walkthrough_of_bWAPP_solutions_A1_injection_writeups/) <br>
 
 
-`Bwapp2:`  bWAPP A4 Insecure Direct Object References Writeups <br>
-`Portswigger:` Portswigger Labs <br>
-`Python:` Python Cheat Sheet  <br>
-`HTB:`  IPPSEC Videos <br>
-`IPPSEC Retired Boxes Lookup:` IPPSEC Retired Videos Lookup <br>
-`MITRE ATT&CK:` MITRE ATT&CK Framwork <br>
+`Bwapp2:` [🔗](https://jaiguptanick.github.io/Blog/blog/Walkthrough_of_bWAPP_solutions_A4_Insecure_Direct_Object_References_writeups/) <br>
+`Portswigger:` [🔗](https://portswigger.net/web-security/all-labs) <br>
+`Python:` [🔗](https://github.com/wilfredinni/python-cheatsheet)  <br>
+`HTB:` [🔗](https://www.youtube.com/c/ippsec/videos) <br>
+`IPPSEC Retired Boxes Lookup:` [🔗](https://ippsec.rocks/?) <br>
+`MITRE ATT&CK:` [🔗](https://attack.mitre.org/) <br>
 `OWASP Application Security Verification Standard:` Application Security Verification Standard Documentation <br>
 `OWASP Mobile Application Security:` Mobile App Security Documentation <br>
 `Pentesting Standard:` Pentest Standard Example <br>
