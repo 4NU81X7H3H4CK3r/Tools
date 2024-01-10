@@ -26,9 +26,9 @@
 &emsp; Step 7:  *hit:* \<Esc> <br>
 &emsp; Step 8:  *type:* ZZ (this will save and exit the updated code) <br>
 
-> Appendix A: This is in no way an all inclusive scan, again this is just to allow to start searching for Low-Hanging-Fruit (LHF) <br>
-> Appendix B: This is fully customizable and I encourge you to make this you own <br>
-> Appendix C: The upgrade code section is based on the "VIM" text editior any (TE) will work dealers choice <br>
+> Appendix A: This is in no way an all inclusive scan, main purpose is to gather some Low-Hanging-Fruit (LHF), and not to remain idle while more comprehensive scans are being ran.  <br>
+> Appendix B: This is fully customizable and I, encourge you to make this you own <br>
+> Appendix C: The **_upgrade code_** section is based on the "VIM" text editior any **_(TE)_** will work, it really comes down to dealers choice <br>
 ------------------
 **Resources** 
 > A collection of Penetration Testing & Redteam resources.
